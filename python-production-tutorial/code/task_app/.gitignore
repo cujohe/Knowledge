@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# venv
+venv/
+.venv/
+
+# Database
+instance/
+*.db
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+thumbs.db
