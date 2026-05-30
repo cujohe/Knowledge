@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+.venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 日记/测试数据（示例生成的）
+diary.txt
+todo.json
+sample_users.csv
+demo_sales_report.xlsx
+
+# 备份
+backups/
